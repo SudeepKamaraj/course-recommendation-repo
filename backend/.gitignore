@@ -1,0 +1,11 @@
+# Dependency folders
+node_modules/
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+/public/videos/
+# Logs
+
